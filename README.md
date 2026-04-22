@@ -10,4 +10,12 @@
 - Create BroserRouter > Routes component > Route=/ Body >RouteChildren
 - Create an Outlet in your body component 
 - Create Footer
-- Create Login
+- Create Login Page
+- Install axios
+- CORS - install cors in backend - add middleware to with configuration: origin, credentials: true
+- Whenever you're making API call so pass axios => {withCredentials: true}
+- Install Redux Toolkit and redux-toolkit 
+- configureStore => Provider => createSlice => add reducer to store
+- Login and see data is coming porperly in the store
+- NavBar should update as soon as user logs in
+- Refactor our code to add constants file + create a components folder
