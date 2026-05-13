@@ -1,5 +1,6 @@
 {
   "name": "namastedevtinder",
+  "proxy": "http://localhost:7777",
   "private": true,
   "version": "0.0.0",
   "type": "module",
